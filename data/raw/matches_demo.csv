@@ -1,0 +1,4 @@
+date,league,home,away,home_strength,away_strength,home_shots_rate,away_shots_rate,home_corners_rate,away_corners_rate,player_home,player_home_shots90,player_away,player_away_shots90,odds_home,odds_draw,odds_away,odds_ou25_over,odds_ou25_under,odds_teamshots_home_over45,odds_teamshots_home_under45,odds_corners_over85,odds_corners_under85,odds_player_home_over15,odds_player_home_under15,odds_player_away_over15,odds_player_away_under15
+2025-10-18,ENG,Arsenal,Chelsea,1.3,1.1,5.8,4.6,6.5,5.2,Bukayo Saka,2.9,Nicolas Jackson,2.1,1.95,3.60,3.80,2.05,1.80,1.95,1.85,2.05,1.80,2.10,1.70,2.40,1.60
+2025-10-18,ESP,Girona,Sevilla,1.1,1.0,5.1,4.7,5.8,5.4,Artem Dovbyk,2.6,Youssef En-Nesyri,2.3,1.85,3.60,4.00,1.95,1.85,2.00,1.85,1.95,1.85,2.05,1.75,2.05,1.75
+2025-10-18,FRA,Lyon,Monaco,1.15,1.2,5.3,5.1,5.9,6.1,Alexandre Lacazette,3.2,Wissam Ben Yedder,2.5,2.50,3.50,2.90,2.10,1.75,1.90,1.90,2.05,1.80,1.95,1.75,2.15,1.70
